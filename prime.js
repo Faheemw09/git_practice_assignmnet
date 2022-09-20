@@ -1,4 +1,5 @@
 function identifyPrime(num) {
+let num=13;
    
     let factor=0;
    for (let i=1;i<=num;i++){ 
