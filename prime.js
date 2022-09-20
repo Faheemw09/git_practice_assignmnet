@@ -7,9 +7,9 @@ function identifyPrime(num) {
         }
    }
    if(factor==2){
-       console.log("Yes");
+       console.log ("true");
    }else{
-       console.log("No");
+       console.log ("false");
    }
 
 }
